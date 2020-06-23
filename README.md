@@ -48,7 +48,7 @@ This project uses a supervised learning approach to train an encoder-decoder sty
 #### Input Image:
 ![alt text](https://github.com/yashdubey95/MonocularDepthEstimation/blob/master/images/Input.PNG)
 
-### Output Image:
+### Output Image (cmap = Plasma):
 ![alt text](https://github.com/yashdubey95/MonocularDepthEstimation/blob/master/images/Ouput.PNG)
 
 ### Input-Output Montage:
